@@ -40,3 +40,16 @@ h1 {
 h2, h3 {
     margin: 10px 0;
 }
+
+.student {
+    margin: 20px 0;
+}
+
+.student-photo {
+    display: block;
+    margin: 10px auto;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%; 
+}
